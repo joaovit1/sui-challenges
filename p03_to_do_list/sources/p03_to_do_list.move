@@ -30,6 +30,6 @@ module p03_to_do_list::to_do_list {
 
 }
 
-// Worked as well, for checking purposes:
+// Worked as well, testnet IDs for checking purposes:
 // 	PackageID: 0x728b6acca6bb8585562c59f718ef800be59ed7bf2fb408a45bf3e980e3d76621
 //	ObjectID: 0xc9e1235275a30e394d8e06a662a60ec3f56557fb0d816c78aecd399aa2f50d2b
