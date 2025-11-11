@@ -1,6 +1,4 @@
 module p02_counter::Counter {
-    use std::debug::print;
-    
     public struct Counter has key {
         id: UID,
         value: u64,
@@ -27,6 +25,6 @@ module p02_counter::Counter {
     }
 }
 
-//Worked like a charm, here are the infos about the created counter.
-//PackageID 0xce36be41efd6a436164489e0f51dd9638ca31924dbeea570f9fe4072b763c209
-//ObjectID 0x9fba1fe438910dec24e284fec78111ecd678fd63ae9ecfc551827329ca185998
+//Worked like a charm, here are the testnet infos about the created counter.
+//PackageID 0x6f149db1be0baf5348cb753dba1c431b30a422bcbb59b6860ad43ea1e534b5aa
+//ObjectID 0xbf2c9aa59ccbe1b123ea5d0b80dc4f5ee75ed9c445108e42b6e95e5b8638c6de
